@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently a RA @ Queensland Brain Institute 🧠, moving to St. Louis 🇺🇸 soon!
+I'm currently a Software Engineer @ WashU Department of Neuroscience 🧠 in St. Louis 🇺🇸!
 
 - 🔭 I’m currently working on new ways to integrate modern web tools into the development of online experiments.
 - 🌱 I’m currently learning JavaScript tools and ecosystems, mainly TypeScript and webpack at the moment.
