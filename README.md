@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi, I'm Henry 👋
 
-I'm currently a Software Engineer @ WashU Department of Neuroscience 🧠 in St. Louis 🇺🇸!
+I'm a Software Engineer in the [Brain Development and Disorders lab](https://sites.wustl.edu/richardslab/) at the Washington University School of Medicine in St. Louis Department of Neuroscience 🧠!
 
-- 🔭 &nbsp; I’m currently working on new ways to integrate modern web tools into the development of online experiments.
-- 🌱 &nbsp; I’m currently learning JavaScript tools and ecosystems, mainly TypeScript and Webpack at the moment.
-- 👯 &nbsp; I’m looking to collaborate on improving existing online tools or creating new tools that help with online experiments.
-- 💬 &nbsp; Ask me about JavaScript or jsPsych!
-- 📫 &nbsp; How to reach me: I have a [blog / website](https://clumsycode.com)!
+- 🔭 &nbsp; I’m currently working on ways to improve the technical possibilities of online behavioural and cognitive tasks using modern development tools while putting accessibility first.
+- 🌱 &nbsp; While my background was in Software Engineering, I'm learning computational neuroscience in my spare time, and I hope to do a PhD in the field.
+- 👯 &nbsp; I’m looking to collaborate to improve existing online tools or create new tools that will further the capabilities of online behavioural and cognitive tasks while promoting accessibility.
+- 💬 &nbsp; Ask me about running online and offline behavioural and cognitive tasks!
+- 📫 &nbsp; How to reach me: I have a [blog / website](https://henryburgess.me)
