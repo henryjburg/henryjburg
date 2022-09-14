@@ -1,6 +1,6 @@
 ### Hi, I'm Henry 👋
 
-I'm a Software Engineer in the [Brain Development and Disorders lab](https://sites.wustl.edu/richardslab/) 🧠!
+I'm a Software Engineer in the [Brain Development and Disorders Lab](https://sites.wustl.edu/richardslab/) 🧠!
 
 - 🔭 &nbsp; I’m currently working on ways to improve the technical possibilities of neurocognitive tasks using modern development tools while keeping accessibility first.
 - 🌱 &nbsp; My background was in Software Engineering, I'm learning computational neuroscience in my spare time, and I hope to do a PhD in the field.
